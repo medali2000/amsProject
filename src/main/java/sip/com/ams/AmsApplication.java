@@ -12,6 +12,7 @@ public class AmsApplication {
 		System.out.println("camp Devops starter");
 		System.out.println("camp Devops starter");
 		System.out.println("camp Devops starter");
+		System.out.println("camp Devops starter");
 	}
 
 }
