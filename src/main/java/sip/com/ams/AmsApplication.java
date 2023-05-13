@@ -10,9 +10,13 @@ public class AmsApplication {
 
 		SpringApplication.run(AmsApplication.class, args);
 		System.out.println("camp Devops starter");
+
 		System.out.println("camp Devops starter");
 		System.out.println("camp Devops starter");
 		System.out.println("camp Devops starter");
+
+		System.out.println("inst 5");
+
 	}
 
 }
