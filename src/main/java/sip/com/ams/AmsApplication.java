@@ -17,6 +17,7 @@ public class AmsApplication {
 
 		System.out.println("inst 5");
 		System.out.println("inst 6 sur master");
+		System.out.println("inst 6 sur test");
 	}
 
 }
